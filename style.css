@@ -6,7 +6,7 @@
 .container1 {
     width: 100%;
     height: 100vh;
-    background-image: ("ayyas kecil.png");
+    background-image: url("ayyas kecil.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -16,7 +16,7 @@
 .container2 {
     width: 100%;
     height: 100vh;
-    background-image: ("ayyas gede1.jpg");
+    background-image: url("ayyas gede1.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -26,7 +26,7 @@
 .container3 {
     width: 100%;
     height: 100vh;
-    background-image: ("ayyas gede2.jpg");
+    background-image: url("ayyas gede2.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
